@@ -12,13 +12,13 @@ local redzLib = {
     Version = "v1.2.2",
     PlaceName = MarketplaceService:GetProductInfo(game.PlaceId).Name
   },
-  Themes = loadstring(game:HttpGet("https://raw.githubusercontent.com/Seven7-lua/RedzLibs/refs/heads/main/src/RedzlibV4/Themes.lua"))(),
+  Themes = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xtentacion178/Hehjs/refs/heads/main/Rhhrhr"))(),
   Flags = {},
   Save = {
     Theme = "Default",
     UISize = {550, 310},
     ScrollSize = 160,
-    TransparencyHub = 0.1
+    TransparencyHub = 0.3
   },
   Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/Seven7-lua/RedzLibs/refs/heads/main/src/RedzlibV4/Icons.lua"))() --[[
     I found this source on fluent but I don't know who created it
